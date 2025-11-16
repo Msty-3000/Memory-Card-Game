@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=MemoryCardGame
+comment1.params=
+comment1.target=MemoryCardGame()
+comment2.params=
+comment2.target=void\ setupCards()
+comment3.params=
+comment3.target=void\ createGUI()
+comment4.params=value1\ value2
+comment4.target=boolean\ areMatched(java.lang.String,\ java.lang.String)
+numComments=5

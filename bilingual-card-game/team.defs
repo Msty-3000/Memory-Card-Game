@@ -1,0 +1,17 @@
+#Sat Nov 15 20:30:11 PST 2025
+bluej.teamsettings.git.branch=
+bluej.teamsettings.git.protocol=https
+bluej.teamsettings.git.repositoryPrefix=/Msty-3000/Memory-Card-Game.git
+bluej.teamsettings.git.server=github.com
+bluej.teamsettings.ignore1=.*\\.class
+bluej.teamsettings.ignore2=bluej\\.pkh
+bluej.teamsettings.ignore3=team\\.defs
+bluej.teamsettings.ignore4=.*\\.ctxt
+bluej.teamsettings.ignore5=.*\\~
+bluej.teamsettings.ignore6=.*\\\#
+bluej.teamsettings.ignore7=.*\\\#backup
+bluej.teamsettings.ignore8=\\.DS_Store
+bluej.teamsettings.user=Msty-3000
+bluej.teamsettings.vcs=git
+bluej.teamsettings.yourEmail=mengshengtianyi@qq.com
+bluej.teamsettings.yourName=Shengtianyi Meng
